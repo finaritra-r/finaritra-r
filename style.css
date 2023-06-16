@@ -1,0 +1,45 @@
+body{
+    background-image: -webkit-linear-gradient(rgb(19, 204, 164),#ffffffbb);
+    background-repeat: no-repeat;
+    height: 100px;}
+
+.img{
+    height: 200px;
+    border: outset;
+    border-color: rgb(19, 204, 164);
+    border-width: 6px;
+    border-radius: 150px;
+    margin-top: 95px;
+    }
+P{
+    text-align: center; 
+    } 
+h1{
+    text-align: center;
+    color: #117755;
+    width: 100%;
+    font-size: 40px;
+    font-family: century;
+    font-style: normal;
+    }
+.salutation{
+    text-align: start;
+    font-size: 30px;
+    margin: 10px;
+    margin-top: -30px;
+    color: rgb(112, 72, 110);
+}
+.contact{
+    font-size: 20px;
+    margin-left: 1100px;
+    color: darkgreen;
+    font-style: oblique;
+}
+.smile{
+    height: 35px;
+    margin-top: -45px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+    border-radius: 25px;
+    }
+    a:hover{text-decoration: underline; color: #77065f;}
